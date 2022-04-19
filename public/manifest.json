@@ -1,6 +1,6 @@
 {
-   "name": "Chrome React Extension",
-   "description": "React Chrome extensions",
+   "name": "Todo Extension",
+   "description": "React Todo Chrome extension",
    "version": "1.0",
    "manifest_version": 3,
    "action": {
